@@ -38,12 +38,12 @@ foreach ($results as $result) {
 }
 ```
 ## Answer 4
-1. Submit on zip folder (show_data(Drupal Answar4).zip).
-2. Setup basic Drupal 8 site and create Arice content.
-3. unzip folder and placed folder in module folder in Drupal 8.
-4. Install module from Drupal backend. 
+1. Submited one zip folder (show_data(Drupal Answar4).zip).
+2. Please Setup basic Drupal 8 site in your local and create Article content.
+3. unzip folder and placed in module folder in Drupal 8.
+4. Installed show_data module in Drupal . 
 5. Open URL(<BasePath>/data-list).
-6. Displayed list of all Article content in page. 
+6. Displayed list of all Article content in the page. 
 
 
 ## Answer 5
